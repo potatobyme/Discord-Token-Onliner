@@ -1,16 +1,9 @@
-# Token-Onliner
-## Made by @ProtDos @CodingLive#0001
-
-## Unpatched version: DM @codinglive on discord...
-
-https://t.me/xoding
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/69071809/184872137-1c7bcdde-954a-412a-a576-aecd7c536f70.png)
 
 ## Installation
 ```bash
-git clone https://github.com/ProtDos/Discord-Token-Onliner/
-cd Discord-Token-Onliner
+
 pip install -r requirements.txt
 python3 main.py
 ```
@@ -45,9 +38,6 @@ Don't get confused about this. It's current bug, I'll fix it asap. The bot still
 - tokens won't get banned
 - fast
 - personal
-
-## Error Mode
-If you get any errors try running `error_main.py`. If it doesn't help either, please make an [issue](https://github.com/ProtDos/Discord-Token-Onliner/issues/new) or contact me.
 
 
 ## Random mode
